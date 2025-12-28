@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SkajT
-- 👀 I’m interested in Network and Programing
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Networking
 - 📫 How to reach me krajewski.kam@gmail.com
 
 <!---
